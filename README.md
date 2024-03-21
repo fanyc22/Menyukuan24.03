@@ -57,5 +57,5 @@ MENYUKUAN_CODENAME=dandelion
 
 ## FAQ
 
-1. F: 门誉宽同学今年有生推吗？
-    Q: 😠
+1. Q: 为啥到这个点才发？
+   A: 问426B😠
