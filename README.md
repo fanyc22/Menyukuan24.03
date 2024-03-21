@@ -4,21 +4,23 @@
 
 ## How to check the version number?
 
-```bash
-$cat /etc/os-release
-NAME="Menyukuan"
-VERSION="24.3.20 Non-LTS (Dandelion)"
-ID=menyukuan
-ID_LIKE=human
-PRETTY_NAME="Menyukuan 24.03.20 LTS"
-VERSION_ID="24.03"
-HOME_URL="https://426B.room/menyukuan.html"
-SUPPORT_URL="https://help.426B.room/menyukuan.html"
-BUG_REPORT_URL="https://threrisnobag😠.462B.room/menyukan/"
-PRIVACY_POLICY_URL="https://425B.room/legal/terms-and-policies/touchable"
-VERSION_CODENAME=dandelion
-MENYUKUAN_CODENAME=dandelion
-```
+You can run `$cat /etc/os-release`.
+
+It should be like:
+
+NAME="Menyukuan"  
+VERSION="24.3.20 Non-LTS (Dandelion)"  
+ID=menyukuan  
+ID_LIKE=human  
+PRETTY_NAME="Menyukuan 24.03.20 LTS"  
+VERSION_ID="24.03"  
+HOME_URL="https://426B.room/menyukuan.html"  
+SUPPORT_URL="https://help.426B.room/menyukuan.html"  
+BUG_REPORT_URL="https://threrisnobag😠.462B.room/menyukan/"  
+PRIVACY_POLICY_URL="https://425B.room/legal/terms-and-policies/touchable"  
+VERSION_CODENAME=dandelion  
+MENYUKUAN_CODENAME=dandelion  
+
 
 ## Getting Started
 
@@ -67,12 +69,14 @@ Joking, you know. 🤣
 - love from yzq:
     > 多年以后，面对冰雪大世界，yzq会想起宽哥带他去见识冰块的那个遥远的下午。
 - love from gzh:
-    ![Not](./lib/gzh.png)
+    > 很好的宽哥，使万花尺在电电实验旋转，使426B在星露谷和哈尔滨选择，使我在瓦旋转。
+
+万花尺旋转不是扣分来着的吗。😢
 
 ## FAQ
 
 1. Q: 为啥到这个点才发？
-   A: 问426B😠
+   A: 因为426B有人12点起床😠
 
 ## Contributors
 
@@ -88,4 +92,4 @@ Joking, you know. 🤣
 
 ### Special Thanks
 
-- **zfy** - Special acknowledgment for significant contributions or support, [Link](well.i.don't.know)
+- **zfy** - Special acknowledgment for significant contributions and support, [Link](well.i.don't.know)
