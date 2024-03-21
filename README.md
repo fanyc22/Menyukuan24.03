@@ -75,7 +75,7 @@ Joking, you know. 🤣
 
 ## FAQ
 
-1. Q: 为啥到这个点才发？
+1. Q: 为啥到这个点才发？  
    A: 因为426B有人12点起床😠
 
 ## Contributors
