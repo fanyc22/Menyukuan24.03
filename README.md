@@ -65,7 +65,7 @@ Joking, you know. 🤣
     > 我还记得上学期期末看他玩像素哥的晚上，那是一个各个方面都有点疯又有点天才的游戏。能记得这个，除了这款游戏实在让人印象深刻外，还有我觉得这款游戏也很像宽哥，有点疯又有点天才。
     > 或许不需要用又。
 - love from yzq:
-    > 多年以后，面对冰雪大世界，yzq会想起宽哥带他去见识冰块的那个遥远的下午
+    > 多年以后，面对冰雪大世界，yzq会想起宽哥带他去见识冰块的那个遥远的下午。
 - love from gzh:
     ![Not](./lib/gzh.png)
 
@@ -88,4 +88,4 @@ Joking, you know. 🤣
 
 ### Special Thanks
 
-- **zfy** - Special acknowledgment for significant contributions or support, [Link](well i don't know)
+- **zfy** - Special acknowledgment for significant contributions or support, [Link](well.i.don't.know)
